@@ -1,4 +1,4 @@
-# drum-kit-game
+# Drum kit
 Simple Drum kit game.
 
 Created with pure JS(Vanilla JS).
